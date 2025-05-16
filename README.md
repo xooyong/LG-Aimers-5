@@ -1,4 +1,8 @@
-LG Aimers
+
+
+LG Aimers![스크린샷 2024-09-01 223738](https://github.com/user-attachments/assets/ebe892d7-707a-46cf-8723-d67dcdc86207)
+
+![스크린샷 2024-09-01 223800](https://github.com/user-attachments/assets/cb93853e-c3c0-44ea-b1a4-870cdb80d795)
 
 제품 이상 여부 판별 프로젝트
 개요
